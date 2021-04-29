@@ -2,34 +2,20 @@
 
 Socially vulnerable populations tend to have higher risks of damage when responding to and recovering from wildfires. We determine social vulnerability by factors such as age, income, education, and health.
 
-### Markdown
+### How Social Factors Affect Evacuation Behavior
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Research by Dulebenets et al. shows that individuals who are 65 years or oder drive XX% slower than individuals 25 years in evacuation scenarios.
 
-```markdown
-Syntax highlighted code block
+Additionally, the elderly are more at risk of perishing from wildfires. People over the age of 65 made up 80% of fatalities in the 2018 Camp Fire in Paradise, CA.
 
-# Header 1
-## Header 2
-### Header 3
+### How Social Factors Affect Risk to Wildfire Damage and Recovery
 
-- Bulleted
-- List
+More than 80% of older homes (houses built prior to 2008) and mobile homes were destroyed in the Camp Fire, compared to the 49% of newer homes that were burnt down.
 
-1. Numbered
-2. List
+### How are Evacuations Currently Planned?
 
-**Bold** and _Italic_ and `Code` text
+Primarily based on biophysical indicators, such as WHP. (Show WHP Map)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WildfireSVI/WildfireSVI.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
