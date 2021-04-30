@@ -1,6 +1,10 @@
 <html>
+  <head>
+    <title>Social Vulnerability and Wildfire Risk</title>
+  </head>
   
-<h1>Why Should We Incorporate Social Factors Into Evacuation Planning?</h1>
+  <body>
+  <h1>Why Should We Incorporate Social Factors Into Evacuation Planning?</h1>
 
 Socially vulnerable populations tend to have higher risks of damage when responding to and recovering from wildfires. We determine social vulnerability by factors such as age, income, education, and health.
 
@@ -17,7 +21,9 @@ More than 80% of older homes (houses built prior to 2008) and mobile homes were 
 <h2>How are Evacuations Currently Planned?</h2>
 
 Primarily based on biophysical indicators, such as WHP. (Show WHP Map)
-
+  
+  </body>
+  
 </html>
 
 
