@@ -1,6 +1,6 @@
-## Why Should We Incorporate Social Factors Into Evacuation Planning?
-
 <html>
+  
+<h1>Why Should We Incorporate Social Factors Into Evacuation Planning?</h1>
 
 Socially vulnerable populations tend to have higher risks of damage when responding to and recovering from wildfires. We determine social vulnerability by factors such as age, income, education, and health.
 
