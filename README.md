@@ -8,7 +8,7 @@ While evacuation planning typically measures risk by using traditional biophysic
 
 Socially vulnerable populations can face additional difficulties when evacuting from wildfires. If we look at old age as an example,
 
-
+<img src="driving_icon.png">
 
 Research by Dulebenets et al. shows that individuals who are 65 years or older drive XX% slower than individuals 25 years in evacuation scenarios.
 
