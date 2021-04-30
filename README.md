@@ -10,9 +10,8 @@ Socially vulnerable populations can face additional difficulties when evacuting 
 
 <img src="driving_icon.png">
 
-Research by Dulebenets et al. shows that individuals who are 65 years or older drive XX% slower than individuals 25 years in evacuation scenarios.
 
-Additionally, the elderly are more at risk of perishing from wildfires. People over the age of 65 made up 80% of fatalities in the 2018 Camp Fire in Paradise, CA.
+The elderly are also more at risk of perishing from wildfires. People over the age of 65 made up 80% of fatalities in the 2018 Camp Fire in Paradise, CA.
 
 <h2>How Social Factors Affect Damage Recovery from Wildfires</h2>
 
