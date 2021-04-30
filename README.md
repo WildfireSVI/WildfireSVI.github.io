@@ -22,11 +22,13 @@ While evacuation planning typically measures risk by using traditional biophysic
 
 <p>Socially vulnerable populations also face higher risks of damage from wildfires and can have less ability to recover from said damages.</p>
 
-More than 80% of older homes (houses built prior to 2008) and mobile homes were destroyed in the Camp Fire, compared to the 49% of newer homes that were burnt down.
+<p><img src="campfire_homes_destroyed.png"></p>
+
+<p><img src="undocumented_recovery.png"></p>
 
 <h2>How are Evacuations Currently Planned?</h2>
 
-Primarily based on biophysical indicators, such as WHP. (Show WHP Map)
+<p></p>
   
   </body>
   
