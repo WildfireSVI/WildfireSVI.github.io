@@ -20,7 +20,7 @@ While evacuation planning typically measures risk by using traditional biophysic
 
 <h2>How Social Factors Affect Damage and Recovery from Wildfires</h2>
 
-
+<p>Socially vulnerable populations also face higher risks of damage from wildfires and can have less ability to recover from said damages.</p>
 
 More than 80% of older homes (houses built prior to 2008) and mobile homes were destroyed in the Camp Fire, compared to the 49% of newer homes that were burnt down.
 
