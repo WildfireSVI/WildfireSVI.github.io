@@ -30,13 +30,16 @@ Research has shown that socially vulnerable populations tend to be at a higher r
 
 <h2>What Areas are Vulnerable?</h2>
 
-<p>1. Map of Wildfire Hazard Potential (WHP): Risk of wildfires by biophysical indicators. Red regions are more likely to experience wildfires.</p>
+<h3>Statewide Map of Risk Factors</h3> 
+
+<p>Wildfire Hazard Potential: Risk of wildfires by biophysical indicators. Red regions are more likely to experience wildfires.</p>
+
+<p>Adaptive Capacity: The ability of people to respond to and recover from wildfires. Red regions (higher values) are less adaptable to wildfires.</p>
+
+<p>Overall Vulnerability: Vulnerability to wildfires when combining WHP and Adaptive Capacity.</p>
 
 <div class='tableauPlaceholder' id='viz1619828149113' style='position: relative'><noscript><a href='#'><img alt='Vulnerability Metrics by County and Census Tract ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vu&#47;VulnerabilityMetricsbyCountyandCensusTract&#47;VulnerabilityMetricsbyCountyandCensusTract&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;VulnerabilityMetricsbyCountyandCensusTract&#47;VulnerabilityMetricsbyCountyandCensusTract?:language=en&amp;:embed=y&amp;:display_count=y&amp;publish=yes' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vu&#47;VulnerabilityMetricsbyCountyandCensusTract&#47;VulnerabilityMetricsbyCountyandCensusTract&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1619828149113');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
   
-<p>2. Map of Adaptive Capacity: The ability of people to respond to and recover from wildfires. Red regions (higher values) are less adaptable to wildfires.</p>
-
-<p>3. Map of Overall Vulnerability: Vulnerability to wildfires when combining WHP and Adaptive Capacity.</p>
 
 
   </body>
