@@ -16,7 +16,7 @@
 
 <h2>Examples of how Social Factors Affect Wildfire Response and Recovery</h2>
 
-<p><img src="home_stat_text.png"></p>
+<p><img src="home_text.png"></p>
 <p><img src="homes_new.png"></p>
 <br>
 <br>
@@ -28,6 +28,7 @@
 <br>
 <br>
 <br>
+<p><img src="age_text.png"></p>
 <p><img src="old_driving.png"></p>
 <br>
 <br>
