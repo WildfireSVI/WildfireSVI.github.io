@@ -17,12 +17,18 @@
 <h2>Examples of how Social Factors Affect Wildfire Response and Recovery</h2>
 
 <p><img src="home_stat_text.png"></p>
-
+<br>
+<br>
 <p><img src="homes_new.png"></p>
-
+<br>
+<br>
 <p><img src="homes_old.png"></p>
-
+<br>
+<br>
 <p><img src="homes_mobile.png"></p>
+<br>
+<br>
+
 
 <h2>How Social Factors Affect Evacuations</h2>
 
