@@ -2,16 +2,27 @@
   <body>
   <h1>Why Should We Incorporate Social Factors Into Wildfire Risk Assessments?</h1>
 
-While wildfire risk assessments typically rely on traditional biophysical indicators, such as fuel, weather and geography, they does not consider how social factors may affect the risks different populations may face. This leaves socially vulnerable populations to potentially be underserved when it comes to protection, response, and recovery from wildfires.
+<p>While wildfire risk assessments typically rely on traditional biophysical indicators, such as fuel, weather and geography, they does not consider how social factors may affect the risks different populations may face. This leaves socially vulnerable populations to potentially be underserved when it comes to protection, response, and recovery from wildfires.</p>
 
-<b>How do we define social factors?</b> 
-<p>Social factors include demographic and socieconomic characteristic including:</p>
+<p><b>How do we define social factors?</b></p>
+<p>Social factors include demographic and socieconomic characteristics including (but not limited to):</p>
 <ul>
   <li>Age</li>
   <li>Income</li>
   <li>Ethnicity</li>
   <li>Education Level</li>
   <li>Disability Status</li>
+</ul>
+
+<p></p>
+
+<h2>How Social Factors Affect Damage and Recovery from Wildfires</h2>
+
+<p>Socially vulnerable populations also face higher risks of damage from wildfires and can have less ability to recover from said damages.</p>
+
+<p><img src="campfire_homes_destroyed.png"></p>
+
+<p><img src="undocumented_recovery.png"></p>
 
 <h2>How Social Factors Affect Evacuations</h2>
 
@@ -26,14 +37,6 @@ While wildfire risk assessments typically rely on traditional biophysical indica
 <p>
 <img src="campfire_fatalities.png">
 </p>
-
-<h2>How Social Factors Affect Damage and Recovery from Wildfires</h2>
-
-<p>Socially vulnerable populations also face higher risks of damage from wildfires and can have less ability to recover from said damages.</p>
-
-<p><img src="campfire_homes_destroyed.png"></p>
-
-<p><img src="undocumented_recovery.png"></p>
 
 <h2>How can we Incorporate Social Factors into Wildfire Risk?</h2>
 
