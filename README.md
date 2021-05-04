@@ -2,7 +2,7 @@
   <body>
   <h1>Why Should We Incorporate Social Factors Into Wildfire Risk Assessments?</h1>
 
-<p>While wildfire risk assessments typically rely on traditional biophysical indicators, such as fuel, weather and geography, they does not consider how social factors may affect the risks different populations may face. This leaves socially vulnerable populations to potentially be underserved when it comes to protection, response, and recovery from wildfires.</p>
+<p>While wildfire risk assessments typically rely on traditional biophysical indicators, such as fuel, weather and geography, they does not consider the effects of social factors. This leaves socially vulnerable populations to be potentially underserved when it comes to protection, response, and recovery from wildfires.</p>
 
 <p><b>How do we define social factors?</b></p>
 <p>Social factors include demographic and socieconomic characteristics including (but not limited to):</p>
@@ -14,9 +14,7 @@
   <li>Disability Status</li>
 </ul>
 
-<p></p>
-
-<h2>How Social Factors Affect Damage and Recovery from Wildfires</h2>
+<h2>Examples of how Social Factors Affect Wildfire Response and Recovery</h2>
 
 <p>Socially vulnerable populations also face higher risks of damage from wildfires and can have less ability to recover from said damages.</p>
 
