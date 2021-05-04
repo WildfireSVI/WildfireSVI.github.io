@@ -19,13 +19,17 @@
 <p><img src="home_stat_text.png"></p>
 <br>
 <br>
+<br>
 <p><img src="homes_new.png"></p>
+<br>
 <br>
 <br>
 <p><img src="homes_old.png"></p>
 <br>
 <br>
+<br>
 <p><img src="homes_mobile.png"></p>
+<br>
 <br>
 <br>
 
@@ -35,7 +39,7 @@
 <p>Socially vulnerable populations can face additional difficulties when evacuting from wildfires. Here, we look at old age as an example.</p>
 
 <p>
-<img src="driving_icon.png">
+<img src="old_driving.png">
 </p>
 
 <p>The elderly are also more at risk of perishing from wildfires.</p>
