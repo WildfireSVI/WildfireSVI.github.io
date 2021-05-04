@@ -1,10 +1,17 @@
 <html>  
   <body>
-  <h1>Why Should We Incorporate Social Factors Into Wildfire Evacuation Planning?</h1>
+  <h1>Why Should We Incorporate Social Factors Into Wildfire Risk Assessments?</h1>
 
-While wildfire evacuation planning typically measures risk by using traditional biophysical indicators, such as fuel, weather and geography, it does not factor in the different risks that different people may face.
+While wildfire risk assessments typically rely on traditional biophysical indicators, such as fuel, weather and geography, they does not consider how social factors may affect the risks different populations may face. This leaves socially vulnerable populations to potentially be underserved when it comes to protection, response, and recovery from wildfires.
 
-Research has shown that socially vulnerable populations tend to be at a higher risk when responding to and recovering from wildfires. We determine social vulnerability by factors such as age, income, education, and health.
+<b>How do we define social factors?</b> 
+<p>Social factors include demographic and socieconomic characteristic including:</p>
+<ul>
+  <li>Age</li>
+  <li>Income</li>
+  <li>Ethnicity</li>
+  <li>Education Level</li>
+  <li>Disability Status</li>
 
 <h2>How Social Factors Affect Evacuations</h2>
 
