@@ -18,8 +18,6 @@
 
 <p><img src="home_stat_text.png"></p>
 <br>
-<br>
-<br>
 <p><img src="homes_new.png"></p>
 <br>
 <br>
@@ -32,18 +30,9 @@
 <br>
 <br>
 <br>
-
-
-<h2>How Social Factors Affect Evacuations</h2>
-
-<p>Socially vulnerable populations can face additional difficulties when evacuting from wildfires. Here, we look at old age as an example.</p>
-
-<p>
-<img src="old_driving.png">
-</p>
-
-<p>The elderly are also more at risk of perishing from wildfires.</p>
-
+<p><img src="old_driving.png"></p>
+<br>
+<br>
 <p>
 <img src="campfire_fatalities.png">
 </p>
