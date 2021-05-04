@@ -16,11 +16,13 @@
 
 <h2>Examples of how Social Factors Affect Wildfire Response and Recovery</h2>
 
-<p>Socially vulnerable populations also face higher risks of damage from wildfires and can have less ability to recover from said damages.</p>
+<p><img src="home_stat_text.png"></p>
 
-<p><img src="campfire_homes_destroyed.png"></p>
+<p><img src="homes_new.png"></p>
 
-<p><img src="undocumented_recovery.png"></p>
+<p><img src="homes_old.png"></p>
+
+<p><img src="homes_mobile.png"></p>
 
 <h2>How Social Factors Affect Evacuations</h2>
 
