@@ -20,7 +20,6 @@
 <p><img src="homes_new.png"></p>
 <br>
 <br>
-<br>
 <p><img src="homes_old.png"></p>
 <br>
 <br>
