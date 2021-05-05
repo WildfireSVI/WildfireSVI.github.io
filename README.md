@@ -27,7 +27,6 @@
 <p><img src="homes_mobile.png"></p>
 <br>
 <br>
-<br>
 <p><img src="age_text.png"></p>
 <p><img src="old_driving.png"></p>
 <br>
@@ -44,16 +43,7 @@
 <h2>How can we Incorporate Social Factors into Wildfire Risk?</h2>
 
 <p><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205825">Research by Davies et al.</a> proposes a new measure of wildfire vulnerability that combines biophysical indicators with social factors.</p>
-<p><img src="vuln_caption.png"></p>
-<br>
 <p><img src="vuln_formula.png"></p>
-
-
-<h3>Social Factors Relating to Adaptive Capacity</h3>
-
-<p>Adaptive Capacity combines metrics such as income, number in poverity, education levels, and language proficiency. We can see that overall vulnerability, or the ability to respond to and recover from wildfires, has significanct relationships with these factors.</p>
-
-<div class='tableauPlaceholder' id='viz1619831778778' style='position: relative'><noscript><a href='#'><img alt='Vulnerability vs. Social Factors ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vu&#47;Vulnerabilityvs_SocialFactors&#47;Vulnerabilityvs_SocialFactors&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Vulnerabilityvs_SocialFactors&#47;Vulnerabilityvs_SocialFactors' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vu&#47;Vulnerabilityvs_SocialFactors&#47;Vulnerabilityvs_SocialFactors&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1619831778778');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 <h3>Incorporating Adaptive Capacity into Wildfire Vulnerability</h3>
 
