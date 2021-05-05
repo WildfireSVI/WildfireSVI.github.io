@@ -32,13 +32,13 @@
 <p><img src="old_driving.png"></p>
 <br>
 <br>
-<br>
 <p><img src="campfire_fatalities.png"></p>
 <br>
 <br>
-<br>
 <p><img src="undoc_text1.png"></p>
+<br>
 <p><img src="undoc_img.png"></p>
+<br>
 <p><img src="undoc_text2.png"></p>
 
 <h2>How can we Incorporate Social Factors into Wildfire Risk?</h2>
