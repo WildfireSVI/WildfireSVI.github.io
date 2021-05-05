@@ -44,6 +44,10 @@
 <h2>How can we Incorporate Social Factors into Wildfire Risk?</h2>
 
 <p><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205825">Research by Davies et al.</a> proposes a new measure of wildfire vulnerability that combines biophysical indicators with social factors.</p>
+<p><img src="vuln_caption.png"></p>
+<br>
+<p><img src="vuln_formula.png"></p>
+
 
 <h3>Social Factors Relating to Adaptive Capacity</h3>
 
